@@ -51,7 +51,7 @@ app.post('/api/notes', (req, res) => {
     res.json(newNote);
 });
 
-app.delete('/api/notes/id', (req,res)=> {
+app.delete('/api/notes/:id', (req,res)=> {
     deleteNote(req.params.id, allNotes);
     res,json(true);
 });
