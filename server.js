@@ -53,7 +53,7 @@ app.post('/api/notes', (req, res) => {
 
 app.delete('/api/notes/:id', (req,res)=> {
     deleteNote(req.params.id, allNotes);
-    res,json(true);
+    res.json(true);
 });
 
 app.listen(PORT, () => {
