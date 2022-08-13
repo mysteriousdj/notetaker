@@ -12,16 +12,17 @@ Using the starter code, my task was the create a back end that connected the fro
 
 ## Screenshots
 
-[!homepage](/public/assets/screenshots/homepage.png)
+![homepage](/public/assets/screenshots/homepage.png)
 
-[!notepage](/public/assets/screenshots/notepage.png)
+![notepage](/public/assets/screenshots/notepage.png)
 
 * Delete function added
-[!deltefunction](/public/assets/screenshots/deletedfunction.png)
+
+![deltefunction](/public/assets/screenshots/deletedfunction.png)
 
 ## Demo
 
-[!Notetaker](/public/assets/screenshots/Note%20Taker.gif)
+![Notetaker](/public/assets/screenshots/Note%20Taker.gif)
 
 ## Installation
 
